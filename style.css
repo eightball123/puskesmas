@@ -1,0 +1,20 @@
+body {
+  background: #c2f3ed;
+}
+
+.jumbotron {
+  padding-top: 4rem;
+  background-color: white;
+}
+
+#galeri {
+  background-color: white;
+}
+
+#layanan {
+  background-color: white;
+}
+
+section {
+  padding-top: 4rem;
+}
